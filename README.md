@@ -8,7 +8,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ---
-## Nombre del bot: `🤖 EsclavoBot-Beta 🤖` ❌
+## Nombre del bot: `🤖 EsclavoBot-Beta 🤖`
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0089FF&height=120&section=header"/>
 
 [![Screenshot-20240219-230626-Google.jpg](https://i.postimg.cc/cCFg4fRL/Screenshot-20240219-230626-Google.jpg)](https://postimg.cc/RJnVg6pk)
@@ -31,26 +31,17 @@
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-### `CONFIGURACION Y ERRORES`
-> Este mensaje viene de  [`Bots-WhatsApp-OFC`](https://github.com/Bots-WhatsApp-OFC)
-<details> 
-<summary>HAGA CLIK AQUI PARA LEER</summary>
-
- - ✅ El resto de las cosas que has realizado aqui, se ven bien muy bien, hiciste una presentación de tu perfil de README.md
-
-- ❌ Percatando de algunas cosas, la dirección de tu repositorio indica el mismo nombre de tu perfil de github, es decir, estas haciendo una presentación de tu mismo perfil, el enlace tiene que ser de un repositorio de bot, por ejemplo: `https://github.com/tumamisexi/EsclavoBot-Beta`
-
-- ✅ que hayas echo una demostración en tu perfil de github, eso esta bien muy bien, solo que falta que crees otro repositorio con el nombre del bot, y no el nombre de tu perfil de github, puedes crearlo cuando tengas tiempo suficiente el repositorio del bot y agregarme como colaborador para ayudarte en el tema.
-
-</details>
-
-<!-- RAINBOW LINE BOT -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
 <div align="center">
   <h1 align="center"> <img class=" lazyloaded" src="https://github.com/Bots-WhatsApp-OFC/Github-Emoji/blob/master/Emojis/Activities/Party%20Popper.png?raw=true" alt="Party Popper" title="Party Popper" width="31" height="31"> DUEÑA DE LA CUENTA <img class=" lazyloaded" src="https://github.com/Bots-WhatsApp-OFC/Github-Emoji/blob/master/Emojis/Activities/Party%20Popper.png?raw=true" alt="Party Popper" title="Party Popper" width="31" height="31"> </h1>
 
 <a href="https://github.com/tumamisexi"><img src="https://github.com/tumamisexi.png" width="300" height="300" alt="Eli"/></a>
 
 ✨ `Eli` ✨
+ <!-- RAINBOW LINE BOT -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+<div align="center">
+  <h1 align="center"> <img class=" lazyloaded" src="https://github.com/Bots-WhatsApp-OFC/Github-Emoji/blob/master/Emojis/Activities/Party%20Popper.png?raw=true" alt="Party Popper" title="Party Popper" width="31" height="31"> Colaboradores <img class=" lazyloaded" src="https://github.com/Bots-WhatsApp-OFC/Github-Emoji/blob/master/Emojis/Activities/Party%20Popper.png?raw=true" alt="Party Popper" title="Party Popper" width="31" height="31"> </h1>
  
+<a href="https://github.com/Bots-WhatsApp-OFC"><img src="https://github.com/Bots-WhatsApp-OFC.png" width="200" height="200" alt="Support Bots"/></a> <a href="https://github.com/egobot-supreme"><img src="https://github.com/egobot-supreme.png" width="200" height="200" alt="Zayn OFC"/></a>
+  
