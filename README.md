@@ -19,6 +19,33 @@
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
+bash
+termux-setup-storage
+
+
+bash
+apt-get update -y && apt-get upgrade -y
+
+
+bash
+pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
+
+
+bash
+git clone https://github.com/tumamisexi/EsclavoBot-Beta && cd EsclavoBot-Beta && yarn install && npm install
+
+
+bash
+ls
+
+bash
+npm update
+
+
+bash
+npm start
+
+
 <div align="left">
  <h1>🛠️ Lenguaje y herramientas</h1>
  <div>
