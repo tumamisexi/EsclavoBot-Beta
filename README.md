@@ -19,6 +19,24 @@
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
+
+
+<div align="left">
+ <h1>🛠️ Lenguaje y herramientas</h1>
+ <div>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;
+ </div>
+
+ ---
+<!-- RAINBOW LINE BOT -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+<div align="center">
+  <h1 align="center"> <img class=" lazyloaded" src="https://github.com/Bots-WhatsApp-OFC/Github-Emoji/blob/master/Emojis/Activities/Party%20Popper.png?raw=true" alt="Party Popper" title="Party Popper" width="31" height="31"> DUEÑA DE LA CUENTA <img class=" lazyloaded" src="https://github.com/Bots-WhatsApp-OFC/Github-Emoji/blob/master/Emojis/Activities/Party%20Popper.png?raw=true" alt="Party Popper" title="Party Popper" width="31" height="31"> </h1>
+
+<a href="https://github.com/tumamisexi"><img src="https://github.com/tumamisexi.png" width="300" height="300" alt="Eli"/></a>
 bash
 termux-setup-storage
 
@@ -45,23 +63,6 @@ npm update
 bash
 npm start
 
-
-<div align="left">
- <h1>🛠️ Lenguaje y herramientas</h1>
- <div>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;
- </div>
-
- ---
-<!-- RAINBOW LINE BOT -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
-<div align="center">
-  <h1 align="center"> <img class=" lazyloaded" src="https://github.com/Bots-WhatsApp-OFC/Github-Emoji/blob/master/Emojis/Activities/Party%20Popper.png?raw=true" alt="Party Popper" title="Party Popper" width="31" height="31"> DUEÑA DE LA CUENTA <img class=" lazyloaded" src="https://github.com/Bots-WhatsApp-OFC/Github-Emoji/blob/master/Emojis/Activities/Party%20Popper.png?raw=true" alt="Party Popper" title="Party Popper" width="31" height="31"> </h1>
-
-<a href="https://github.com/tumamisexi"><img src="https://github.com/tumamisexi.png" width="300" height="300" alt="Eli"/></a>
 
 ✨ `Eli` ✨
  <!-- RAINBOW LINE BOT -->
