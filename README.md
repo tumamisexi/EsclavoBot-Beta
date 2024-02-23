@@ -37,6 +37,8 @@
   <h1 align="center"> <img class=" lazyloaded" src="https://github.com/Bots-WhatsApp-OFC/Github-Emoji/blob/master/Emojis/Activities/Party%20Popper.png?raw=true" alt="Party Popper" title="Party Popper" width="31" height="31"> DUEÑA DE LA CUENTA <img class=" lazyloaded" src="https://github.com/Bots-WhatsApp-OFC/Github-Emoji/blob/master/Emojis/Activities/Party%20Popper.png?raw=true" alt="Party Popper" title="Party Popper" width="31" height="31"> </h1>
 
 <a href="https://github.com/tumamisexi"><img src="https://github.com/tumamisexi.png" width="300" height="300" alt="Eli"/></a>
+
+
 bash
 termux-setup-storage
 
