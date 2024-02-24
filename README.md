@@ -16,6 +16,36 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0089FF&height=120&section=footer"/>
 
 ---
+
+### INSTALAR POR TERMUX (bot no terminado todavia)
+
+```bash
+termux-setup-storage
+```
+
+```bash
+apt-get update -y && apt-get upgrade -y
+```
+
+```bash
+pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
+```
+
+```bash
+git clone https://github.com/tumamisexi/EsclavoBot-Beta && cd EsclavoBot-Beta && yarn install && npm install
+```
+
+```bash
+ls
+```
+
+```bash
+npm update
+```
+
+```bash
+npm start
+```
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
@@ -37,36 +67,6 @@
   <h1 align="center"> <img class=" lazyloaded" src="https://github.com/Bots-WhatsApp-OFC/Github-Emoji/blob/master/Emojis/Activities/Party%20Popper.png?raw=true" alt="Party Popper" title="Party Popper" width="31" height="31"> DUEÑA DE LA CUENTA <img class=" lazyloaded" src="https://github.com/Bots-WhatsApp-OFC/Github-Emoji/blob/master/Emojis/Activities/Party%20Popper.png?raw=true" alt="Party Popper" title="Party Popper" width="31" height="31"> </h1>
 
 <a href="https://github.com/tumamisexi"><img src="https://github.com/tumamisexi.png" width="300" height="300" alt="Eli"/></a>
-
-
-bash
-termux-setup-storage
-
-
-bash
-apt-get update -y && apt-get upgrade -y
-
-
-bash
-pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
-
-
-bash
-git clone https://github.com/tumamisexi/EsclavoBot-Beta && cd EsclavoBot-Beta && yarn install && npm install
-
-
-bash
-ls
-
-bash
-npm update
-
-
-bash
-npm start
-
-
-
 
 ✨ `Eli` ✨
  <!-- RAINBOW LINE BOT -->
