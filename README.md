@@ -80,7 +80,7 @@ npm start
 <a href="https://github.com/tumamisexi"><img src="https://github.com/tumamisexi.png" width="300" height="300" alt="Eli"/></a>
 
 ✨ `Eli` ✨
- <!-- RAINBOW LINE BOT -->
+<!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <div align="center">
@@ -88,3 +88,7 @@ npm start
  
 <a href="https://github.com/Bots-WhatsApp-OFC"><img src="https://github.com/Bots-WhatsApp-OFC.png" width="200" height="200" alt="Support Bots"/></a> <a href="https://github.com/egobot-supreme"><img src="https://github.com/egobot-supreme.png" width="200" height="200" alt="Zayn OFC"/></a>
 
+<!-- RAINBOW LINE BOT -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+![showcase 2](https://github.com/tumamisexi/EsclavoBot-Beta/assets/155032233/6372780a-9a15-4b4e-8a90-f49dc8dbce73)
