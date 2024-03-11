@@ -81,6 +81,10 @@ npm start
  
 <a href="https://github.com/Bots-WhatsApp-OFC"><img src="https://github.com/Bots-WhatsApp-OFC.png" width="200" height="200" alt="Support Bots"/></a> <a href="https://github.com/egobot-supreme"><img src="https://github.com/egobot-supreme.png" width="200" height="200" alt="Zayn OFC"/></a>
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/tumamisexi/count.svg?"  />
+</div>
 
+###
 
 
