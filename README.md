@@ -88,9 +88,4 @@ npm start
  
 <a href="https://github.com/Bots-WhatsApp-OFC"><img src="https://github.com/Bots-WhatsApp-OFC.png" width="200" height="200" alt="Support Bots"/></a> <a href="https://github.com/egobot-supreme"><img src="https://github.com/egobot-supreme.png" width="200" height="200" alt="Zayn OFC"/></a>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tumamisexi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tumamisexi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
+<img alt="Static Badge" src="https://img.shields.io/badge/github-visitantes-blue">
