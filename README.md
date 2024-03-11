@@ -80,4 +80,16 @@ npm start
   <h1 align="center"> <img class=" lazyloaded" src="https://github.com/Bots-WhatsApp-OFC/Github-Emoji/blob/master/Emojis/Activities/Party%20Popper.png?raw=true" alt="Party Popper" title="Party Popper" width="31" height="31"> Colaboradores <img class=" lazyloaded" src="https://github.com/Bots-WhatsApp-OFC/Github-Emoji/blob/master/Emojis/Activities/Party%20Popper.png?raw=true" alt="Party Popper" title="Party Popper" width="31" height="31"> </h1>
  
 <a href="https://github.com/Bots-WhatsApp-OFC"><img src="https://github.com/Bots-WhatsApp-OFC.png" width="200" height="200" alt="Support Bots"/></a> <a href="https://github.com/egobot-supreme"><img src="https://github.com/egobot-supreme.png" width="200" height="200" alt="Zayn OFC"/></a>
-  
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=tumamisexi.tumamisexi&left_color=aqua"  />
+</div>
+
+###
+
