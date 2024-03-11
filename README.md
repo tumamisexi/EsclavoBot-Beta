@@ -51,6 +51,10 @@ npm start
 ## si tienes dudas puedes consultar aqui:
 <img alt="Static Badge" src="https://img.shields.io/badge/WhatsApp-contactame-%20blue?style=for-the-badge&logo=WhatsApp&logoColor=white&link=https%3A%2F%2Fwa.me%2F5491130288378">
 
+<!-- RAINBOW LINE BOT -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+
 <div align="left">
  <h1>🛠️ Lenguaje y herramientas</h1>
  <div>
