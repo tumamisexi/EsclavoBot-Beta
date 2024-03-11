@@ -88,5 +88,3 @@ npm start
  
 <a href="https://github.com/Bots-WhatsApp-OFC"><img src="https://github.com/Bots-WhatsApp-OFC.png" width="200" height="200" alt="Support Bots"/></a> <a href="https://github.com/egobot-supreme"><img src="https://github.com/egobot-supreme.png" width="200" height="200" alt="Zayn OFC"/></a>
 
-<img alt="Static Badge" src="https://img.shields.io/badge/github-visitantes-blue?link=README.md">
-
