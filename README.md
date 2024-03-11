@@ -3,11 +3,10 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 # Bienvenido a mi respositorio  <img class=" lazyloaded" src="https://github.com/Bots-WhatsApp-OFC/Github-Emoji/blob/master/Emojis/Activities/Party%20Popper.png?raw=true" alt="Party Popper" title="Party Popper" width="31" height="31"> 
-<img alt="Static Badge" src="https://img.shields.io/badge/WhatsApp-contactame-%20blue?style=for-the-badge&logo=WhatsApp&logoColor=white&link=https%3A%2F%2Fwa.me%2F5491130288378">
+
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
----
 ## Nombre del bot: `🤖 EsclavoBot-Beta 🤖`
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0089FF&height=120&section=header"/>
 
@@ -15,7 +14,6 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0089FF&height=120&section=footer"/>
 
----
 
 ### INSTALAR POR TERMUX (bot no terminado todavia)
 
@@ -50,6 +48,8 @@ npm start
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 
+## si tienes dudas puedes consultar aqui:
+<img alt="Static Badge" src="https://img.shields.io/badge/WhatsApp-contactame-%20blue?style=for-the-badge&logo=WhatsApp&logoColor=white&link=https%3A%2F%2Fwa.me%2F5491130288378">
 
 <div align="left">
  <h1>🛠️ Lenguaje y herramientas</h1>
