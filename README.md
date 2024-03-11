@@ -91,4 +91,5 @@ npm start
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-https://komarev.com/ghpvc/?username=tumamisexi&style=flat-square
+<!-- VISTAS DEL PERFIL -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tumamisexi&label=Profile%20views&color=0e75b6&style=flat" alt="tumamisexi" /> </p>
