@@ -91,4 +91,6 @@ npm start
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-![showcase 2](https://github.com/tumamisexi/EsclavoBot-Beta/assets/155032233/6372780a-9a15-4b4e-8a90-f49dc8dbce73)
+<img src="https://raw.githubusercontent.com/tumamisexi/tumamisexi/output/snake.svg" alt="Snake animation" />
+
+###
