@@ -92,5 +92,6 @@ npm start
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <!-- VISTAS DEL PERFIL -->
-C:\Users\eliza\OneDrive\Escritorio\showcase 2.gif
+![showcase 2](https://github.com/tumamisexi/EsclavoBot-Beta/assets/155032233/e0e8bbe4-6131-4f44-a127-65e719a0a95f)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tumamisexi&label=Profile%20views&color=0e75b6&style=flat" alt="tumamisexi" /> </p>
